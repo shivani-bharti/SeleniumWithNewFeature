@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22808" started-at="2020-06-06T08:42:26Z" finished-at="2020-06-06T08:42:48Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22808" started-at="2020-06-06T08:42:26Z" finished-at="2020-06-06T08:42:48Z">
+      <class name="networkCalls.developerTools">
+        <test-method status="PASS" signature="init()[pri:0, instance:networkCalls.developerTools@553f17c]" name="init" is-config="true" duration-ms="4988" started-at="2020-06-06T08:42:26Z" finished-at="2020-06-06T08:42:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="enableNetworkOnline()[pri:0, instance:networkCalls.developerTools@553f17c]" name="enableNetworkOnline" duration-ms="2687" started-at="2020-06-06T08:42:31Z" finished-at="2020-06-06T08:42:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- enableNetworkOnline -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:networkCalls.developerTools@553f17c]" name="tearDown" is-config="true" duration-ms="642" started-at="2020-06-06T08:42:33Z" finished-at="2020-06-06T08:42:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:networkCalls.developerTools@553f17c]" name="init" is-config="true" duration-ms="3415" started-at="2020-06-06T08:42:34Z" finished-at="2020-06-06T08:42:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="geoLocation()[pri:0, instance:networkCalls.developerTools@553f17c]" name="geoLocation" duration-ms="2857" started-at="2020-06-06T08:42:37Z" finished-at="2020-06-06T08:42:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geoLocation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:networkCalls.developerTools@553f17c]" name="tearDown" is-config="true" duration-ms="677" started-at="2020-06-06T08:42:40Z" finished-at="2020-06-06T08:42:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="init()[pri:0, instance:networkCalls.developerTools@553f17c]" name="init" is-config="true" duration-ms="3415" started-at="2020-06-06T08:42:41Z" finished-at="2020-06-06T08:42:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method status="PASS" signature="geoNetworkCalls()[pri:0, instance:networkCalls.developerTools@553f17c]" name="geoNetworkCalls" duration-ms="3391" started-at="2020-06-06T08:42:44Z" finished-at="2020-06-06T08:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- geoNetworkCalls -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:networkCalls.developerTools@553f17c]" name="tearDown" is-config="true" duration-ms="692" started-at="2020-06-06T08:42:48Z" finished-at="2020-06-06T08:42:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- networkCalls.developerTools -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
